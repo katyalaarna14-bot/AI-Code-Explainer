@@ -1,9 +1,12 @@
 # 🤖 CodeWise AI
 
-### AI-Powered Code Explainer, Improver & Optimizer
+### 🚀 Live Demo
+
+[Open CodeWise AI](https://ai-code-explainer-uljzxug9hwurd9vxctmgsn.streamlit.app/)
 
 **Developed by Aarna Katyal**
 
+### AI-Powered Code Explainer, Improver & Optimizer
 CodeWise AI is a Generative AI-powered programming assistant designed to
 help beginners understand, improve, and optimize their programming code.
 
